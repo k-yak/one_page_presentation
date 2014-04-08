@@ -1,0 +1,296 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<stati18n>
+	<file>
+		<name>stati18n.css</name>
+		<minified>true</minified>
+	</file>
+
+	<language>
+
+		<text id='english'>
+			<translation lang='french'>Anglais</translation>
+			<translation lang='english'>English</translation>
+		</text>
+		
+		<text id='french'>
+			<translation lang='french'>Français</translation>
+			<translation lang='english'>French</translation>
+		</text>
+	
+		<text id='what-i-do'>
+			<translation lang='french'>Ce que je fais</translation>
+			<translation lang='english'>What I Do</translation>
+		</text>
+		
+		<text id='about-me'>
+			<translation lang='french'>A propos</translation>
+			<translation lang='english'>About Me</translation>
+		</text>
+		
+		<text id='my-works'>
+			<translation lang='french'>Mes projets</translation>
+			<translation lang='english'>My Works</translation>
+		</text>
+		
+		<text id='contact-me'>
+			<translation lang='french'>Me contacter</translation>
+			<translation lang='english'>Contact me</translation>
+		</text>
+		
+		<text id='pres-line'>
+			<translation lang='french'>Salut, Je suis Florian Rotagnon</translation>
+			<translation lang='english'>Hi, I am Florian Rotagnon</translation>
+		</text>
+		
+		<text id='job'>
+			<translation lang='french'>Développeur web Freelance</translation>
+			<translation lang='english'>Freelance web developer</translation>
+		</text>
+		
+		<text id='short-pres'>
+			<translation lang='french'>Diplomé de l'ISIMA, je suis un ingénieur en informatique, spécialisé en développement.</translation>
+			<translation lang='english'>Graduated from ISIMA, I'm a computer science engineer, specialized in development.</translation>
+		</text>
+		
+		<text id='web-devlopment'>
+			<translation lang='french'>Développement web</translation>
+			<translation lang='english'>Web Development</translation>
+		</text>
+		
+		<text id='worldline'>
+			<translation lang='french'>J'ai commencé ma carrière de développeur web à Atos Worldline, le leader européen des paiments et transactions électroniques.</translation>
+			<translation lang='english'>I start my job of web developer at Atos Worldline, the European leader in the field of payments and transactional services.</translation>
+		</text>
+		
+		<text id='pc-mobile'>
+			<translation lang='french'>Développement PC &amp; Mobile</translation>
+			<translation lang='english'>PC &amp; Mobile development</translation>
+		</text>
+		
+		<text id='pc-exp'>
+			<translation lang='french'>C, C++, C#, Java. Expérience en informatique embarquée pour la Robert Gordon University, Aberdeen, Scotland.</translation>
+			<translation lang='english'>C, C++, C#, Java development. Experience in embedded development for Robert Gordon University, Aberdeen, Scotland.</translation>
+		</text>
+		
+		<text id='project-management'>
+			<translation lang='french'>Gestion de projet</translation>
+			<translation lang='english'>Project Management</translation>
+		</text>
+  
+		<text id='pm-exp'>
+			<translation lang='french'>Blablablablablablablablablabla</translation>
+			<translation lang='english'>Blablablablablablablablablabla</translation>
+		</text>
+  
+		<text id='infra-cloud'>
+			<translation lang='french'>Infrastructure &amp; Cloud</translation>
+			<translation lang='english'>Infrastructure &amp; Cloud</translation>
+		</text>
+  
+		<text id='infra-cloud-exp'>
+			<translation lang='french'>Blablablablablablablablablabla</translation>
+			<translation lang='english'>Blablablablablablablablablabla</translation>
+		</text>
+  
+		<text id='feature-projects'>
+			<translation lang='french'>Derniers Projets</translation>
+			<translation lang='english'>Featured Projects</translation>
+		</text>
+  
+		<text id='take-a-look'>
+			<translation lang='french'>Ne manquez pas HotspotMap,</translation>
+			<translation lang='english'>Take a look at the HotspotMap</translation>
+		</text>
+  
+		<text id='open-source-project'>
+			<translation lang='french'>projet Open Source.</translation>
+			<translation lang='english'>Open Source project.</translation>
+		</text>
+  
+		<text id='hotspotmap-descr'>
+			<translation lang='french'>Trouve le meilleur endroit pour travailler, lorsque tu es en déplacement!</translation>
+			<translation lang='english'>Find the best place to work when you are far from your workplace or your home!</translation>
+		</text>
+  
+		<text id='visit-website'>
+			<translation lang='french'>Visiter le site!</translation>
+			<translation lang='english'>Visit Website!</translation>
+		</text>
+  
+		<text id='try-grow'>
+			<translation lang='french'>Essayez Grow. Un site simple et Open Source de question/réponse.</translation>
+			<translation lang='english'>Try Grow. A simple Question/Answer open-source site.</translation>
+		</text>
+  
+		<text id='you-can-also'>
+			<translation lang='french'>Vous pouvez aussi le</translation>
+			<translation lang='english'>You can also</translation>
+		</text>
+  
+		<text id='download'>
+			<translation lang='french'>télécharger</translation>
+			<translation lang='english'>download</translation>
+		</text>
+		
+		<text id='and-install'>
+			<translation lang='french'>et l'installer gratuitement.</translation>
+			<translation lang='english'>it and install it for free.</translation>
+		</text>
+  
+		<text id='presentation'>
+			<translation lang='french'>Je m'appelle Florian Rotagnon, je suis un développeur web de 23 ans, je viens de Clermont-Ferrand. Je suis diplomé de l'ISIMA (Insititut Supérieur d'Informatique, Modélisation et de ces Applications).</translation>
+			<translation lang='english'>I am Florian rotagnon, a twenty three year old developer from Clermont-Ferrand, France. I have graduated with a Enginneer degree of Devlopment, from ISIMA (Institute Superior of Informatic, Modelisation and their Applications).</translation>
+		</text>
+  
+		<text id='punchline'>
+			<translation lang='french'>Pour moi créer n'est pas juste un travail, c'est une passion.</translation>
+			<translation lang='english'>Creating is not just a job for me, it's a passion.</translation>
+		</text>
+  
+		<text id='create-together'>
+			<translation lang='french'>Créons ensemble</translation>
+			<translation lang='english'>Create together</translation>
+		</text>
+  
+		<text id='skills'>
+			<translation lang='french'>Mes compétences</translation>
+			<translation lang='english'>I Got the Skills</translation>
+		</text>
+
+		<text id='html-css'>
+			<translation lang='french'>HTML / CSS</translation>
+			<translation lang='english'>HTML / CSS</translation>
+		</text>
+
+		<text id='pc-dev'>
+			<translation lang='french'>Développement PC</translation>
+			<translation lang='english'>PC Development</translation>
+		</text>
+
+		<text id='mobil-dev'>
+			<translation lang='french'>Développement Mobile</translation>
+			<translation lang='english'>Mobile Development</translation>
+		</text>
+
+		<text id='all'>
+			<translation lang='french'>Tout</translation>
+			<translation lang='english'>All</translation>
+		</text>
+		
+		<text id='web'>
+			<translation lang='french'>Web</translation>
+			<translation lang='english'>Web</translation>
+		</text>
+		
+		<text id='other'>
+			<translation lang='french'>Autre</translation>
+			<translation lang='english'>Other</translation>
+		</text>
+		
+		<text id='hotspotmap'>
+			<translation lang='french'>HotspotMap</translation>
+			<translation lang='english'>HotspotMap</translation>
+		</text>
+		
+		<text id='open-source-website'>
+			<translation lang='french'>Site Open Source</translation>
+			<translation lang='english'>Open Source Website</translation>
+		</text>
+		
+		<text id='hotspotmap-p1'>
+			<translation lang='french'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</translation>
+			<translation lang='english'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</translation>
+		</text>
+		
+		<text id='hotspotmap-p2'>
+			<translation lang='french'>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</translation>
+			<translation lang='english'>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</translation>
+		</text>
+		
+		<text id='hotspotmap-p3'>
+			<translation lang='french'>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</translation>
+			<translation lang='english'>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</translation>
+		</text>
+		
+		<text id='grow'>
+			<translation lang='french'>Grow</translation>
+			<translation lang='english'>Grow</translation>
+		</text>
+		
+		<text id='grow-p1'>
+			<translation lang='french'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</translation>
+			<translation lang='english'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</translation>
+		</text>
+		
+		<text id='grow-p2'>
+			<translation lang='french'>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</translation>
+			<translation lang='english'>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</translation>
+		</text>
+		
+		<text id='grow-p3'>
+			<translation lang='french'>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</translation>
+			<translation lang='english'>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</translation>
+		</text>
+		
+		<text id='easydrive'>
+			<translation lang='french'>EasyDrive</translation>
+			<translation lang='english'>EasyDrive</translation>
+		</text>
+		
+		<text id='easydrive-p1'>
+			<translation lang='french'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</translation>
+			<translation lang='english'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</translation>
+		</text>
+		
+		<text id='easydrive-p2'>
+			<translation lang='french'>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</translation>
+			<translation lang='english'>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</translation>
+		</text>
+		
+		<text id='easydrive-p3'>
+			<translation lang='french'>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</translation>
+			<translation lang='english'>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</translation>
+		</text>
+		
+		<text id='keep-in-touch'>
+			<translation lang='french'>Me CONTACTER</translation>
+			<translation lang='english'>Keep in TOUCH with me</translation>
+		</text>
+		
+		<text id='available'>
+			<translation lang='french'>Je suis disponible pour une mission Freelance</translation>
+			<translation lang='english'>I am available for Freelance.</translation>
+		</text>
+		
+		<text id='work-together'>
+			<translation lang='french'>Travaillons ensemble.</translation>
+			<translation lang='english'>Let's work together.</translation>
+		</text>
+		
+		<text id='work-mail-me'>
+			<translation lang='french'>Ecrivez moi : florian.rotagnon@gmail.com</translation>
+			<translation lang='english'>Mail me : florian.rotagnon@gmail.com</translation>
+		</text>
+		
+		<text id='name'>
+			<translation lang='french'>Nom</translation>
+			<translation lang='english'>Name</translation>
+		</text>
+		
+		<text id='email'>
+			<translation lang='french'>Email</translation>
+			<translation lang='english'>Email</translation>
+		</text>
+		
+		<text id='message'>
+			<translation lang='french'>Message</translation>
+			<translation lang='english'>Message</translation>
+		</text>
+		
+		<text id='send-message'>
+			<translation lang='french'>Envoyer Message</translation>
+			<translation lang='english'>Send Message</translation>
+		</text>
+		
+	</language>
+</stati18n>
